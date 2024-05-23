@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I'm Currently Working On</h2>
+<h2 align="left">What I'm Currently Working On</h2>
 
 ###
 
@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://cyanvoxel.github.io/static/media/profile.2800247ea466f9e125bb.png"  />
+  <img height="100" src="https://cyanvoxel.github.io/static/media/profile.2800247ea466f9e125bb.png"  />
 </div>
 
 ###
