@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left"><a href="https://github.com/TagStudioDev/TagStudio">TagStudio</a> - A User-Focused Photo & Document Management System</p>
+<h3 align="left"><a href="https://github.com/TagStudioDev/TagStudio">TagStudio</a> // A User-Focused Photo & Document Management System</h3>
+<h3 align="left"><a href="https://github.com/CyanVoxel/vauxhall-obsidian">Vauxhall</a> // 🌌 A Theme Echoing From the Deep (Currently for Obsidian)</h3>
 
 ###
 
